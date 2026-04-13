@@ -1,6 +1,7 @@
 # Hi 👋 I'm Saroj Neupane
 
-💻 Computer Engineering Technology Student in Canada  
+💻 Computer Engineering Technician in Canada  
+💻 Data science Engineer
 🐍 Python Developer  
 🤖 Interested in AI, Automation and Computer Vision  
 
