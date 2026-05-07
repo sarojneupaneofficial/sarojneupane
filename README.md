@@ -2,6 +2,7 @@
 
 💻 Computer Engineering Technician and Data Engineer in Canada  
 💻 Data science Engineer
+💻 Cloud Engineer
 🐍 Python Developer  
 🤖 Interested in AI, Automation and Computer Vision  
 
@@ -21,3 +22,5 @@
 - Apache Hadoop
 - Tenserflow
 - Kafka
+- AWS Cloud
+- MS Azure
