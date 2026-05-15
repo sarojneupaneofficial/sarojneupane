@@ -24,3 +24,11 @@
 - Kafka
 - AWS Cloud
 - MS Azure
+
+
+## Certifications
+AWS Certified Cloud Practitioner
+Microsoft Azure DP-900
+CompTIA Security+
+Vectorworks Certification
+Cisco Networking Certificate
