@@ -13,6 +13,8 @@
 - Python
 - C++
 - C#
+- html
+- css
 - OpenCV
 - Raspberry Pi
 - Git & GitHub
